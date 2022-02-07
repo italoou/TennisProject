@@ -1,4 +1,4 @@
-# PROJETO_PROGRAMAÇÃO_CONCORRENTE
+# PROJETO_TENNIS_MATCH
 
 Nesse projeto, foi implementado um programa que simula uma partida de tenis entre dois jogadores 
 
@@ -8,7 +8,7 @@ Este projeto foi proposto pelo Professor Doutor Everton Ranielly de Sousa Cavalc
 
 >> Para executar o projeto siga os passos:
 
-1. `cd src`: entra no diretório do projeto.
+1. `cd TennisProject`: entra no diretório do projeto.
 2. `cd src`: entra no diretório em que estão os arquivos.
 
 >> Para rodar o programa, primeiro siga os passos acima, e então use o comando `go run TennisGameFullMatch.go`.
